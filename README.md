@@ -55,6 +55,7 @@ DOI: https://doi.org/10.5281/zenodo.17783483
 ---
 
 ## Teaching Topics
+
 - Digital humanities & algorithmic culture
 - Ethics of AI and mediation
 - Symbolic theory
