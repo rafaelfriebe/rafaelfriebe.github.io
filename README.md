@@ -11,9 +11,8 @@ Against this backdrop, my research approaches agency not as mastery or completio
 ## Research Orientation
 I approach freedom not as mastery or resolution, but as the capacity to bear necessity under conditions where conflict, limitation, and persistence are structurally unavoidable.
 
-Rather than treating psychic or cultural constraints as problems to be optimized away, my work understands them as forms of address that demand ongoing responsibility. Agency, on this view, is exercised not through control, coherence, or completion, but through the sustained and reflective manner in which what persists is lived.
+Rather than treating psychic or cultural constraints as problems to be optimized away, my work understands them as forms of address that demand ongoing responsibility. Agency, on this view, is exercised not through control, coherence, or completion, but through the sustained and reflective manner in which what persists is lived. This orientation situates freedom within limits rather than beyond them, emphasizing responsibility without appealing to voluntarist, therapeutic, or heroic notions of autonomy.
 
-This orientation situates freedom within limits rather than beyond them, emphasizing responsibility without appealing to voluntarist, therapeutic, or heroic notions of autonomy.
 ---
 
 ## Core Concepts and Themes
