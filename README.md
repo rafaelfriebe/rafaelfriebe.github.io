@@ -2,10 +2,10 @@
 
 Independent researcher working at the intersection of psychology, philosophy, and digital culture, with a focus on questions of agency and responsibility under technological mediation.
 
-My work examines how subjectivity, ethical responsibility, and forms of agency are shaped under conditions of algorithmic mediation, technological rationality, and persistent inner conflict—conditions in which neither mastery nor resolution can be assumed.
-
+My work examines how subjectivity, ethical responsibility, and forms of agency are shaped under conditions of algorithmic mediation, technological rationality, and persistent inner conflict—conditions in which neither mastery nor resolution can be assumed. 
 Contemporary life increasingly unfolds within procedural and algorithmically mediated environments that privilege optimization, control, and coherence.
 Against this backdrop, my research approaches agency not as mastery or completion, but as a form of responsibility exercised within enduring limits. Drawing on psychology, philosophy, and symbolic theory, I investigate how subjectivity is formed where necessity persists despite insight or effort, and how freedom can be understood as the capacity to remain in conscious relation to what cannot simply be overcome.
+
 ---
 
 ## Research Orientation
