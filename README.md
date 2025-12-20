@@ -26,23 +26,25 @@ Rather than treating psychic or cultural constraints as problems to be optimized
 ---
 
 ## Selected Publications & Preprints
+
 My published and ongoing work develops a depth-psychological account of agency articulated in dialogue with philosophy, cultural theory, and digital humanities.
 
-- Freedom as the Capacity to Bear Necessity: Subjectivity, Responsibility, and Digital Mediation
-Scholarly preprint, Zenodo (2025).
-DOI: https://doi.org/10.5281/zenodo.18000975
+- **Freedom as the Capacity to Bear Necessity: Subjectivity, Responsibility, and Digital Mediation**  
+  Scholarly preprint, Zenodo (2025).  
+  DOI: https://doi.org/10.5281/zenodo.18000975
 
-- Psychic Scripts and Conscious Reprogramming in an Algorithmic Culture: A Jungian Framework for Symbolic Agency
-Scholarly preprint, Zenodo (2025).
-DOI: https://doi.org/10.5281/zenodo.17978818
+- **Psychic Scripts and Conscious Reprogramming in an Algorithmic Culture: A Jungian Framework for Symbolic Agency**  
+  Scholarly preprint, Zenodo (2025).  
+  DOI: https://doi.org/10.5281/zenodo.17978818
 
-- Conscious Branding for the Age of AI: A Jungian Framework for Symbolic, Psychological, and Ethical Communication
-Scholarly preprint, Zenodo (2025).
-DOI: https://doi.org/10.5281/zenodo.17849994
+- **Conscious Branding for the Age of AI: A Jungian Framework for Symbolic, Psychological, and Ethical Communication**  
+  Scholarly preprint, Zenodo (2025).  
+  DOI: https://doi.org/10.5281/zenodo.17849994
 
-- Conscious Branding, Archetypes, and Consumer Identity: A Jungian Framework for Symbolic Meaning, Cultural Individuation, and Ethical Marketing
-Scholarly preprint, Zenodo (2025).
-DOI: https://doi.org/10.5281/zenodo.17783483
+- **Conscious Branding, Archetypes, and Consumer Identity: A Jungian Framework for Symbolic Meaning, Cultural Individuation, and Ethical Marketing**  
+  Scholarly preprint, Zenodo (2025).  
+  DOI: https://doi.org/10.5281/zenodo.17783483
+
 
 ---
 
