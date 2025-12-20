@@ -2,6 +2,7 @@
 
 Independent researcher working at the intersection of psychology, philosophy, and digital culture, with a focus on questions of agency and responsibility under technological mediation.
 
+I develop conceptual frameworks for agency and responsibility that speak across digital humanities, media theory, and depth/phenomenological psychology.
 My work examines how subjectivity, ethical responsibility, and forms of agency are shaped under conditions of algorithmic mediation, technological rationality, and persistent inner conflict—conditions in which neither mastery nor resolution can be assumed. 
 Contemporary life increasingly unfolds within procedural and algorithmically mediated environments that privilege optimization, control, and coherence.
 Against this backdrop, my research approaches agency not as mastery or completion, but as a form of responsibility exercised within enduring limits. Drawing on psychology, philosophy, and symbolic theory, I investigate how subjectivity is formed where necessity persists despite insight or effort, and how freedom can be understood as the capacity to remain in conscious relation to what cannot simply be overcome.
@@ -51,6 +52,13 @@ DOI: https://doi.org/10.5281/zenodo.17783483
 - OSF: https://osf.io
 - IMDb (selected film work): https://www.imdb.com/name/nm15068174/
 
+---
+
+## Teaching Topics
+- Digital humanities & algorithmic culture
+- Ethics of AI and mediation
+- Symbolic theory
+  
 ---
 
 ## Contact
