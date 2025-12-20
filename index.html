@@ -1,265 +1,193 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-
+  <meta charset="UTF-8">
   <title>Rafael Maria Friebe, PhD</title>
 
-  <!-- Basic metadata -->
-  <meta name="author" content="Rafael Maria Friebe" />
-  <meta
-    name="description"
-    content="Independent researcher working at the intersection of psychology, philosophy, and digital culture, with a focus on agency and responsibility under technological mediation."
-  />
-  <meta
-    name="keywords"
-    content="digital culture, digital humanities, agency, responsibility, technological mediation, algorithmic mediation, philosophy, psychology, symbolic theory"
-  />
+  <!-- Academic metadata -->
+  <meta name="author" content="Rafael Maria Friebe">
+  <meta name="description" content="Independent researcher working at the intersection of psychology, philosophy, and digital culture, with a focus on agency and responsibility under technological mediation.">
+  <meta name="keywords" content="psychology, philosophy, digital culture, agency, responsibility, subjectivity, algorithmic mediation, symbolic theory">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <!-- Social preview (optional but helpful) -->
-  <meta property="og:title" content="Rafael Maria Friebe, PhD" />
-  <meta
-    property="og:description"
-    content="Research on agency and responsibility under technological and algorithmic mediation."
-  />
-  <meta property="og:type" content="website" />
-
+  <!-- Minimal, readable styling -->
   <style>
-    :root{
-      --text:#111;
-      --muted:#555;
-      --rule:#ddd;
-      --link:#0b57d0;
-      --bg:#fff;
-      --card:#fafafa;
-    }
-    body{
-      margin:0;
-      background:var(--bg);
-      color:var(--text);
+    body {
       font-family: Georgia, "Times New Roman", serif;
-      line-height:1.6;
-    }
-    .wrap{
-      max-width: 920px;
+      line-height: 1.6;
+      max-width: 960px;
       margin: 3rem auto;
-      padding: 0 1.25rem 3rem;
+      padding: 0 1.5rem;
+      color: #111;
+      background-color: #fff;
     }
-    header{
-      margin-bottom: 1.25rem;
+
+    h1, h2 {
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: 600;
     }
-    h1,h2{
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
-      line-height:1.25;
-      margin:0 0 .75rem;
+
+    h1 {
+      font-size: 2.2rem;
+      margin-bottom: 0.5rem;
     }
-    h1{
-      font-size: 2.1rem;
-      margin-bottom: .35rem;
+
+    h2 {
+      font-size: 1.4rem;
+      margin-top: 2rem;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 0.3rem;
     }
-    .tagline{
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
-      color: var(--muted);
-      margin:0 0 1.25rem;
-      font-size: 1.02rem;
+
+    p {
+      margin: 0.8rem 0;
     }
-    .intro{
-      margin: 1.25rem 0 0;
-      padding: 1rem 1.1rem;
-      background: var(--card);
-      border: 1px solid var(--rule);
-      border-radius: 10px;
+
+    ul {
+      margin: 0.8rem 0 0.8rem 1.2rem;
     }
-    hr{
-      border:none;
-      border-top:1px solid var(--rule);
-      margin: 1.75rem 0;
+
+    li {
+      margin: 0.4rem 0;
     }
-    a{
-      color: var(--link);
+
+    a {
+      color: #0645ad;
       text-decoration: none;
     }
-    a:hover{
+
+    a:hover {
       text-decoration: underline;
     }
-    ul{
-      margin: .5rem 0 0 1.2rem;
-      padding:0;
+
+    .grid {
+      display: grid;
+      grid-template-columns: 2fr 1fr;
+      gap: 2rem;
+      margin-top: 1.5rem;
     }
-    li{
-      margin: .75rem 0;
+
+    .box {
+      border: 1px solid #ddd;
+      padding: 1rem;
+      border-radius: 4px;
+      background: #fafafa;
     }
-    .pub-title{
-      font-weight: 700;
-      display:block;
-      margin-bottom: .2rem;
-    }
-    .pub-meta{
-      color: var(--muted);
-      font-size: .98rem;
-    }
-    .doiline{
-      margin-top: .15rem;
-      font-size: .98rem;
-    }
-    .grid{
-      display:grid;
-      grid-template-columns: 1fr;
-      gap: 1rem;
-    }
-    @media (min-width: 860px){
-      .grid{
-        grid-template-columns: 1.2fr .8fr;
-        align-items:start;
-      }
-    }
-    .box{
-      border:1px solid var(--rule);
-      border-radius:10px;
-      padding: 1rem 1.1rem;
-      background: #fff;
-    }
-    .small{
-      color: var(--muted);
-      font-size: .95rem;
-    }
-    footer{
-      margin-top: 2rem;
-      color: var(--muted);
-      font-size: .9rem;
-    }
-    .kbd{
-      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
-      font-size: .95em;
-      background:#f2f2f2;
-      padding:.1rem .3rem;
-      border-radius:6px;
-      border:1px solid #e6e6e6;
+
+    .small {
+      font-size: 0.95rem;
+      color: #333;
     }
   </style>
-
-  <!-- Optional: JSON-LD (helps search engines understand the page) -->
-  <script type="application/ld+json">
-  {
-    "@context":"https://schema.org",
-    "@type":"Person",
-    "name":"Rafael Maria Friebe",
-    "honorificSuffix":"PhD",
-    "url":"https://rafaelfriebe.github.io/",
-    "sameAs":[
-      "https://orcid.org/0000-0003-5676-1271",
-      "https://www.imdb.com/name/nm15068174/"
-    ]
-  }
-  </script>
 </head>
 
 <body>
-  <main class="wrap">
-    <header>
-      <h1>Rafael Maria Friebe, PhD</h1>
-      <p class="tagline">
-        Independent researcher working at the intersection of psychology, philosophy, and digital culture, with a focus on questions of agency and responsibility under technological mediation.
-      </p>
 
-      <div class="intro">
-        <p>
-          My work examines how subjectivity, ethical responsibility, and forms of agency are shaped under conditions of algorithmic mediation, technological rationality, and persistent inner conflict—conditions in which neither mastery nor resolution can be assumed.
-        </p>
-        <p>
-          Contemporary life increasingly unfolds within procedural and algorithmically mediated environments that privilege optimization, control, and coherence. Against this backdrop, my research approaches agency not as mastery or completion, but as a form of responsibility exercised within enduring limits. Drawing on psychology, philosophy, and symbolic theory, I investigate how subjectivity is formed where necessity persists despite insight or effort, and how freedom can be understood as the capacity to remain in conscious relation to what cannot simply be overcome.
-        </p>
-      </div>
-    </header>
+  <h1>Rafael Maria Friebe, PhD</h1>
 
-    <hr />
+  <p class="small">
+    Independent researcher working at the intersection of psychology, philosophy, and digital culture,
+    with a focus on questions of agency and responsibility under technological mediation.
+  </p>
 
-    <section class="grid">
-      <section class="box">
-        <h2>Research orientation</h2>
-        <p>
-          I approach freedom not as mastery or resolution, but as the capacity to bear necessity under conditions where conflict, limitation, and persistence are structurally unavoidable.
-        </p>
-        <p>
-          Rather than treating psychic or cultural constraints as problems to be optimized away, my work understands them as forms of address that demand ongoing responsibility. Agency, on this view, is exercised not through control, coherence, or completion, but through the sustained and reflective manner in which what persists is lived.
-        </p>
-        <p>
-          This orientation situates freedom within limits rather than beyond them, emphasizing responsibility without appealing to voluntarist, therapeutic, or heroic notions of autonomy.
-        </p>
-      </section>
+  <p>
+    My work examines how subjectivity, ethical responsibility, and forms of agency are shaped under
+    conditions of algorithmic mediation, technological rationality, and persistent inner conflict—conditions
+    in which neither mastery nor resolution can be assumed.
+  </p>
 
-      <aside class="box">
-        <h2>Profiles &amp; links</h2>
-        <ul>
-          <li><a href="https://orcid.org/0000-0003-5676-1271">ORCID</a></li>
-          <li><a href="https://zenodo.org/">Zenodo</a></li>
-          <li><a href="https://osf.io/">OSF</a></li>
-          <li><a href="https://www.imdb.com/name/nm15068174/">IMDb (selected film work)</a></li>
-        </ul>
+  <p>
+    Contemporary life increasingly unfolds within procedural and algorithmically mediated environments
+    that privilege optimization, control, and coherence. Against this backdrop, my research approaches
+    agency not as mastery or completion, but as a form of responsibility exercised within enduring limits.
+    Drawing on psychology, philosophy, and symbolic theory, I investigate how subjectivity is formed where
+    necessity persists despite insight or effort, and how freedom can be understood as the capacity to
+    remain in conscious relation to what cannot simply be overcome.
+  </p>
 
-        <hr />
+  <div class="grid">
 
-        <h2>Contact</h2>
-        <p class="small">
-          Email: <a href="mailto:rafaelfriebe@gmail.com">rafaelfriebe@gmail.com</a>
-        </p>
-      </aside>
-    </section>
+    <div class="box">
+      <h2>Research orientation</h2>
 
-    <hr />
-
-    <section class="box">
-      <h2>Core concepts and themes</h2>
-      <ul>
-        <li>Freedom as responsibility under necessity</li>
-        <li>Subjectivity beyond mastery and optimization</li>
-        <li>Psychic persistence as ethical address</li>
-        <li>Limits of agency under digital mediation</li>
-        <li>Symbolic structures of contemporary culture</li>
-      </ul>
-    </section>
-
-    <hr />
-
-    <section class="box" id="publications">
-      <h2>Selected publications &amp; preprints</h2>
-      <p class="small">
-        My published and ongoing work develops a depth-psychological account of agency articulated in dialogue with philosophy, cultural theory, and digital humanities.
-      </p>
-
-      <ul>
-        <li>
-          <span class="pub-title">Freedom as the Capacity to Bear Necessity: Subjectivity, Responsibility, and Digital Mediation</span>
-          <div class="pub-meta">Scholarly preprint, Zenodo (2025).</div>
-          <div class="doiline">DOI: <a href="https://doi.org/10.5281/zenodo.18000975">https://doi.org/10.5281/zenodo.18000975</a></div>
-        </li>
-
-        <li>
-          <span class="pub-title">Psychic Scripts and Conscious Reprogramming in an Algorithmic Culture: A Jungian Framework for Symbolic Agency</span>
-          <div class="pub-meta">Scholarly preprint, Zenodo (2025).</div>
-          <div class="doiline">DOI: <a href="https://doi.org/10.5281/zenodo.17978818">https://doi.org/10.5281/zenodo.17978818</a></div>
-        </li>
-
-        <li>
-          <span class="pub-title">Conscious Branding for the Age of AI: A Jungian Framework for Symbolic, Psychological, and Ethical Communication</span>
-          <div class="pub-meta">Scholarly preprint, Zenodo (2025).</div>
-          <div class="doiline">DOI: <a href="https://doi.org/10.5281/zenodo.17849994">https://doi.org/10.5281/zenodo.17849994</a></div>
-        </li>
-
-        <li>
-          <span class="pub-title">Conscious Branding, Archetypes, and Consumer Identity: A Jungian Framework for Symbolic Meaning, Cultural Individuation, and Ethical Marketing</span>
-          <div class="pub-meta">Scholarly preprint, Zenodo (2025).</div>
-          <div class="doiline">DOI: <a href="https://doi.org/10.5281/zenodo.17783483">https://doi.org/10.5281/zenodo.17783483</a></div>
-        </li>
-      </ul>
-    </section>
-
-    <footer>
       <p>
-        Last updated: <span class="kbd">2025-12</span>
+        I approach freedom not as mastery or resolution, but as the capacity to bear necessity under
+        conditions where conflict, limitation, and persistence are structurally unavoidable.
       </p>
-    </footer>
-  </main>
+
+      <p>
+        Rather than treating psychic or cultural constraints as problems to be optimized away, my work
+        understands them as forms of address that demand ongoing responsibility. Agency, on this view,
+        is exercised not through control, coherence, or completion, but through the sustained and reflective
+        manner in which what persists is lived.
+      </p>
+
+      <p>
+        This orientation situates freedom within limits rather than beyond them, emphasizing responsibility
+        without appealing to voluntarist, therapeutic, or heroic notions of autonomy.
+      </p>
+    </div>
+
+    <div class="box">
+      <h2>Profiles &amp; links</h2>
+      <ul>
+        <li><a href="https://orcid.org/0000-0003-5676-1271" target="_blank">ORCID</a></li>
+        <li><a href="https://zenodo.org/search?q=metadata.creators.person_orcid:%220000-0003-5676-1271%22" target="_blank">Zenodo (author publications)</a></li>
+        <li><a href="https://osf.io/7ydkr/" target="_blank">OSF (research projects)</a></li>
+        <li><a href="https://www.imdb.com/name/nm15068174/" target="_blank">IMDb (selected film work)</a></li>
+      </ul>
+
+      <h2>Contact</h2>
+      <p>Email: <a href="mailto:rafaelfriebe@gmail.com">rafaelfriebe@gmail.com</a></p>
+    </div>
+
+  </div>
+
+  <div class="box" style="margin-top: 2rem;">
+    <h2>Core concepts and themes</h2>
+    <ul>
+      <li>Freedom as responsibility under necessity</li>
+      <li>Subjectivity beyond mastery and optimization</li>
+      <li>Psychic persistence as ethical address</li>
+      <li>Limits of agency under digital mediation</li>
+      <li>Symbolic structures of contemporary culture</li>
+    </ul>
+  </div>
+
+  <div class="box" style="margin-top: 2rem;">
+    <h2>Selected publications &amp; preprints</h2>
+
+    <p class="small">
+      My published and ongoing work develops a depth-psychological account of agency articulated
+      in dialogue with philosophy, cultural theory, and digital humanities.
+    </p>
+
+    <ul>
+      <li>
+        <strong>Freedom as the Capacity to Bear Necessity: Subjectivity, Responsibility, and Digital Mediation</strong><br>
+        Scholarly preprint, Zenodo (2025).<br>
+        DOI: <a href="https://doi.org/10.5281/zenodo.18000975" target="_blank">https://doi.org/10.5281/zenodo.18000975</a>
+      </li>
+
+      <li>
+        <strong>Psychic Scripts and Conscious Reprogramming in an Algorithmic Culture: A Jungian Framework for Symbolic Agency</strong><br>
+        Scholarly preprint, Zenodo (2025).<br>
+        DOI: <a href="https://doi.org/10.5281/zenodo.17978818" target="_blank">https://doi.org/10.5281/zenodo.17978818</a>
+      </li>
+
+      <li>
+        <strong>Conscious Branding for the Age of AI: A Jungian Framework for Symbolic, Psychological, and Ethical Communication</strong><br>
+        Scholarly preprint, Zenodo (2025).<br>
+        DOI: <a href="https://doi.org/10.5281/zenodo.17849994" target="_blank">https://doi.org/10.5281/zenodo.17849994</a>
+      </li>
+
+      <li>
+        <strong>Conscious Branding, Archetypes, and Consumer Identity: A Jungian Framework for Symbolic Meaning, Cultural Individuation, and Ethical Marketing</strong><br>
+        Scholarly preprint, Zenodo (2025).<br>
+        DOI: <a href="https://doi.org/10.5281/zenodo.17783483" target="_blank">https://doi.org/10.5281/zenodo.17783483</a>
+      </li>
+    </ul>
+  </div>
+
 </body>
 </html>
