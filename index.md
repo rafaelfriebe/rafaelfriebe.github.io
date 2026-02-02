@@ -62,7 +62,7 @@ My published and ongoing work develops a depth-psychological account of agency a
 
 ## Teaching Topics
 
-- Digital humanities & algorithmic culture
+- Digital humanities
 - Ethics of AI and mediation
 - Symbolic theory
   
