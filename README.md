@@ -43,7 +43,7 @@ My published and ongoing work develops a depth-psychological account of agency a
 
 - **Conscious Branding, Archetypes, and Consumer Identity: A Jungian Framework for Symbolic Meaning, Cultural Individuation, and Ethical Marketing**  
   Scholarly preprint, Zenodo (2025).  
-  DOI: https://doi.org/10.5281/zenodo.17783483
+  DOI: https://doi.org/10.5281/zenodo.17783482
 
 
 ---
