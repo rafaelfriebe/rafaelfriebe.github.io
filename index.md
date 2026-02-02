@@ -1,6 +1,6 @@
 # Rafael Maria Friebe, PhD
 
-Independent researcher working at the intersection of psychology, philosophy, and digital culture, with a focus on questions of agency and responsibility under technological mediation.
+Independent researcher working at the intersection of psychology, philosophy, and digital culture, with a focus on questions of agency and responsibility under technological mediation as well as ethics of AI and symbolic theory.
 
 I develop conceptual frameworks for agency and responsibility that speak across digital humanities, media theory, and depth/phenomenological psychology.
 My work examines how subjectivity, ethical responsibility, and forms of agency are shaped under conditions of algorithmic mediation, technological rationality, and persistent inner conflict—conditions in which neither mastery nor resolution can be assumed. 
@@ -60,11 +60,7 @@ My published and ongoing work develops a depth-psychological account of agency a
 
 ---
 
-## Teaching Topics
 
-- Digital humanities
-- Ethics of AI and mediation
-- Symbolic theory
   
 ---
 
