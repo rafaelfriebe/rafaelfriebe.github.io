@@ -71,5 +71,3 @@ My published and ongoing work develops a depth-psychological account of agency a
 ## Contact
 Email: rafaelfriebe@gmail.com
 
-
-
