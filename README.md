@@ -31,19 +31,23 @@ My published and ongoing work develops a depth-psychological account of agency a
 
 - **Freedom as the Capacity to Bear Necessity: Subjectivity, Responsibility, and Digital Mediation**  
   Scholarly preprint, Zenodo (2025).  
-  DOI: https://doi.org/10.5281/zenodo.18000975
+  DOI: https://doi.org/10.5281/zenodo.18000974
 
 - **Psychic Scripts and Conscious Reprogramming in an Algorithmic Culture: A Jungian Framework for Symbolic Agency**  
   Scholarly preprint, Zenodo (2025).  
-  DOI: https://doi.org/10.5281/zenodo.17978818
+  DOI: https://doi.org/10.5281/zenodo.17978270
 
 - **Conscious Branding for the Age of AI: A Jungian Framework for Symbolic, Psychological, and Ethical Communication**  
   Scholarly preprint, Zenodo (2025).  
-  DOI: https://doi.org/10.5281/zenodo.17849994
+  DOI: https://doi.org/10.5281/zenodo.17849993
 
 - **Conscious Branding, Archetypes, and Consumer Identity: A Jungian Framework for Symbolic Meaning, Cultural Individuation, and Ethical Marketing**  
   Scholarly preprint, Zenodo (2025).  
   DOI: https://doi.org/10.5281/zenodo.17783482
+
+- **Bearing Psychic Necessity in Mediated Education: Media Infrastructures, Non-Sovereignty, and Educational Responsibility**  
+  Scholarly preprint, Zenodo (2025).  
+  DOI: https://doi.org/10.5281/zenodo.18038742
 
 
 ---
