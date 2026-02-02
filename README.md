@@ -54,8 +54,8 @@ My published and ongoing work develops a depth-psychological account of agency a
 
 ## Profiles & Links
 - ORCID: https://orcid.org/0000-0003-5676-1271
-- Zenodo: https://zenodo.org
-- OSF: https://osf.io
+- Zenodo: https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Friebe%2C%20Rafael%20Maria%22&l=list&p=1&s=10&sort=bestmatch
+- OSF: https://osf.io/search?search=rafael%20maria%20friebe
 - IMDb (selected film work): https://www.imdb.com/name/nm15068174/
 
 ---
