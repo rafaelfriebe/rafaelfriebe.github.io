@@ -35,7 +35,7 @@ My published and ongoing work develops a depth-psychological account of agency a
 
 - **Psychic Scripts and Conscious Reprogramming in an Algorithmic Culture: A Jungian Framework for Symbolic Agency**  
   Scholarly preprint, Zenodo (2025).  
-  DOI: [https://doi.org/10.5281/zenodo.179782709](https://doi.org/10.5281/zenodo.179782709)
+  DOI: [https://doi.org/10.5281/zenodo.17978270](https://doi.org/10.5281/zenodo.17978270)
 
 - **Conscious Branding for the Age of AI: A Jungian Framework for Symbolic, Psychological, and Ethical Communication**  
   Scholarly preprint, Zenodo (2025).  
@@ -43,7 +43,7 @@ My published and ongoing work develops a depth-psychological account of agency a
 
 - **Conscious Branding, Archetypes, and Consumer Identity: A Jungian Framework for Symbolic Meaning, Cultural Individuation, and Ethical Marketing**  
   Scholarly preprint, Zenodo (2025).  
-  DOI: [https://doi.org/10.5281/zenodo.177834829](https://doi.org/10.5281/zenodo.177834829)
+  DOI: [https://doi.org/10.5281/zenodo.17783482](https://doi.org/10.5281/zenodo.17783482)
 
 - **Bearing Psychic Necessity in Mediated Education: Media Infrastructures, Non-Sovereignty, and Educational Responsibility**  
   Scholarly preprint, Zenodo (2025).  
