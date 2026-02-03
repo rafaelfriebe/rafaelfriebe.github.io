@@ -42,7 +42,7 @@ My published and ongoing work develops a depth-psychological account of agency a
   DOI: [https://doi.org/10.5281/zenodo.17849993](https://doi.org/10.5281/zenodo.17849993)
 
 - **Conscious Branding, Archetypes, and Consumer Identity: A Jungian Framework for Symbolic Meaning, Cultural Individuation, and Ethical Marketing**  
-  Scholarly preprint, Zenodo (2025).  
+  Scholarly preprint, Zenodo (2025). Journal of Higher Education Theory and Practice, 26(1). (accepted for publication)
   DOI: [https://doi.org/10.5281/zenodo.17783482](https://doi.org/10.5281/zenodo.17783482)
 
 - **Bearing Psychic Necessity in Mediated Education: Media Infrastructures, Non-Sovereignty, and Educational Responsibility**  
