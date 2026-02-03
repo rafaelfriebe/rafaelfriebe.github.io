@@ -33,6 +33,7 @@ My published and ongoing work develops a depth-psychological account of agency a
   Journal of Higher Education Theory and Practice, 26(1). (accepted for publication)
   Preprint: Zenodo (2025). 
   DOI: [https://doi.org/10.5281/zenodo.17783482](https://doi.org/10.5281/zenodo.17783482)
+  DOI: [https://doi.org/10.5281/zenodo.17783482](https://doi.org/10.5281/zenodo.17783482)
 
 - **Freedom as the Capacity to Bear Necessity: Subjectivity, Responsibility, and Digital Mediation**  
   Scholarly preprint, Zenodo (2025).  
