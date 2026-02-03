@@ -29,9 +29,9 @@ Rather than treating psychic or cultural constraints as problems to be optimized
 
 My published and ongoing work develops a depth-psychological account of agency articulated in dialogue with philosophy, cultural theory, and digital humanities.
 
-- **Conscious Branding, Archetypes, and Consumer Identity: A Jungian Framework for Symbolic Meaning, Cultural Individuation, and Ethical Marketing.**
-  Journal of Higher Education Theory and Practice, 26(1). (accepted for publication)
-  Preprint: Zenodo (2025). 
+- **Conscious Branding, Archetypes, and Consumer Identity: A Jungian Framework for Symbolic Meaning, Cultural Individuation, and Ethical Marketing.**  
+  Journal of Higher Education Theory and Practice, 26(1). (accepted for publication)  
+  Preprint: Zenodo (2025).  
   DOI: [https://doi.org/10.5281/zenodo.17783482](https://doi.org/10.5281/zenodo.17783482)
 
 - **Freedom as the Capacity to Bear Necessity: Subjectivity, Responsibility, and Digital Mediation**  
