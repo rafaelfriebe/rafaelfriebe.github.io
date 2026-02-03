@@ -29,6 +29,11 @@ Rather than treating psychic or cultural constraints as problems to be optimized
 
 My published and ongoing work develops a depth-psychological account of agency articulated in dialogue with philosophy, cultural theory, and digital humanities.
 
+- **Conscious Branding, Archetypes, and Consumer Identity: A Jungian Framework for Symbolic Meaning, Cultural Individuation, and Ethical Marketing.
+  Journal of Higher Education Theory and Practice, 26(1). (accepted for publication)
+  Preprint: Zenodo (2025). 
+  DOI: [https://doi.org/10.5281/zenodo.17783482](https://doi.org/10.5281/zenodo.17783482)
+
 - **Freedom as the Capacity to Bear Necessity: Subjectivity, Responsibility, and Digital Mediation**  
   Scholarly preprint, Zenodo (2025).  
   DOI: [https://doi.org/10.5281/zenodo.18000974](https://doi.org/10.5281/zenodo.18000974)
@@ -41,14 +46,9 @@ My published and ongoing work develops a depth-psychological account of agency a
   Scholarly preprint, Zenodo (2025).  
   DOI: [https://doi.org/10.5281/zenodo.17849993](https://doi.org/10.5281/zenodo.17849993)
 
-- **Conscious Branding, Archetypes, and Consumer Identity: A Jungian Framework for Symbolic Meaning, Cultural Individuation, and Ethical Marketing**  
-  Scholarly preprint, Zenodo (2025). Journal of Higher Education Theory and Practice, 26(1). (accepted for publication)
-  DOI: [https://doi.org/10.5281/zenodo.17783482](https://doi.org/10.5281/zenodo.17783482)
-
 - **Bearing Psychic Necessity in Mediated Education: Media Infrastructures, Non-Sovereignty, and Educational Responsibility**  
   Scholarly preprint, Zenodo (2025).  
   DOI: [https://doi.org/10.5281/zenodo.18038742](https://doi.org/10.5281/zenodo.18038742)
-
 
 ---
 
