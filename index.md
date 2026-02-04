@@ -34,6 +34,9 @@ Rather than treating psychic or cultural constraints as problems to be optimized
 
 My published and ongoing work develops a depth-psychological account of agency articulated in dialogue with philosophy, cultural theory, and digital humanities.
 
+- Teaching Scientific Writing in Applied Bachelor Programs: Didactic Strategies for Structure, Argument, and Assessment.** 
+  Zenodo (2026) [https://doi.org/10.5281/zenodo.18489177](https://doi.org/10.5281/zenodo.18489177)
+
 - **Conscious Branding, Archetypes, and Consumer Identity: A Jungian Framework for Symbolic Meaning, Cultural Individuation, and Ethical Marketing.**  
   Journal of Higher Education Theory and Practice, 26(1). (accepted for publication)  
   Preprint: Zenodo (2025).  
@@ -42,9 +45,6 @@ My published and ongoing work develops a depth-psychological account of agency a
 - **Freedom as the Capacity to Bear Necessity: Subjectivity, Responsibility, and Digital Mediation**  
   Scholarly preprint, Zenodo (2025).  
   DOI: [https://doi.org/10.5281/zenodo.18000974](https://doi.org/10.5281/zenodo.18000974)
-
-- **Friebe, R. M. (2026). Teaching Scientific Writing in Applied Bachelor Programs: Didactic Strategies for Structure, Argument, and Assessment.** 
-  Zenodo. [https://doi.org/10.5281/zenodo.18489177](https://doi.org/10.5281/zenodo.18489177)
 
 - **Psychic Scripts and Conscious Reprogramming in an Algorithmic Culture: A Jungian Framework for Symbolic Agency**  
   Scholarly preprint, Zenodo (2025).  
