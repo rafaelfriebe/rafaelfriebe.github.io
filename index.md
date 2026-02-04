@@ -4,7 +4,7 @@ Independent researcher working at the intersection of psychology, philosophy, an
 
 Independent researcher working at the intersection of digital humanities, psychology, philosophy, and digital culture, with a focus on agency, responsibility, and subjectivity under technological mediation.
 
-My research develops conceptual frameworks for agency and responsibility that connect digital humanities and media theory with depth-oriented and phenomenological approaches to psychology. I examine how subjectivity, ethical responsibility, and forms of agency are shaped under conditions of algorithmic mediation, technological rationality, and procedural environments—contexts in which neither mastery, optimization, nor resolution can be assumed.
+My research develops conceptual frameworks for agency and responsibility that connect digital humanities and media theory with depth-oriented, interpretativ and phenomenological approaches to psychology. I examine how subjectivity, ethical responsibility, and forms of agency are shaped under conditions of algorithmic mediation, technological rationality, and procedural environments—contexts in which neither mastery, optimization, nor resolution can be assumed.
 
 Contemporary life increasingly unfolds within systems that privilege efficiency, control, and coherence, while leaving underlying tensions unresolved. Against this backdrop, my work approaches agency not as autonomy or completion, but as responsibility exercised within enduring limits. I am particularly interested in how subjectivity is formed where conflict persists despite insight or effort, and how freedom can be understood as the capacity to remain in conscious relation to what cannot simply be overcome.
 
