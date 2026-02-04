@@ -2,10 +2,15 @@
 
 Independent researcher working at the intersection of psychology, philosophy, and digital culture, with a focus on questions of agency and responsibility under technological mediation as well as ethics of AI and symbolic theory.
 
-I develop conceptual frameworks for agency and responsibility that speak across digital humanities, media theory, and depth/phenomenological psychology.
-My work examines how subjectivity, ethical responsibility, and forms of agency are shaped under conditions of algorithmic mediation, technological rationality, and persistent inner conflict—conditions in which neither mastery nor resolution can be assumed. 
-Contemporary life increasingly unfolds within procedural and algorithmically mediated environments that privilege optimization, control, and coherence.
-Against this backdrop, my research approaches agency not as mastery or completion, but as a form of responsibility exercised within enduring limits. Drawing on psychology, philosophy, and symbolic theory, I investigate how subjectivity is formed where necessity persists despite insight or effort, and how freedom can be understood as the capacity to remain in conscious relation to what cannot simply be overcome.
+Independent researcher working at the intersection of digital humanities, psychology, philosophy, and digital culture, with a focus on agency, responsibility, and subjectivity under technological mediation.
+
+My research develops conceptual frameworks for agency and responsibility that connect digital humanities and media theory with depth-oriented and phenomenological approaches to psychology. I examine how subjectivity, ethical responsibility, and forms of agency are shaped under conditions of algorithmic mediation, technological rationality, and procedural environments—contexts in which neither mastery, optimization, nor resolution can be assumed.
+
+Contemporary life increasingly unfolds within systems that privilege efficiency, control, and coherence, while leaving underlying tensions unresolved. Against this backdrop, my work approaches agency not as autonomy or completion, but as responsibility exercised within enduring limits. I am particularly interested in how subjectivity is formed where conflict persists despite insight or effort, and how freedom can be understood as the capacity to remain in conscious relation to what cannot simply be overcome.
+
+Alongside theoretical research, I place strong emphasis on academic teaching and didactic design in digitally mediated and applied higher-education contexts. My pedagogical work focuses on making scientific writing, argumentation, and assessment criteria explicit and teachable, particularly in heterogeneous Bachelor programs. I develop modular, scalable teaching frameworks that combine clear structure, formative feedback, and transparent evaluation, enabling students to build analytical clarity and academic responsibility under real institutional and time constraints.
+
+Across research and teaching, my work is guided by a shared concern with how meaning, responsibility, and self-relation are shaped in contemporary digital environments, especially where technical systems encourage optimization while human experience remains complex.
 
 ---
 
