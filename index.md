@@ -43,6 +43,9 @@ My published and ongoing work develops a depth-psychological account of agency a
   Scholarly preprint, Zenodo (2025).  
   DOI: [https://doi.org/10.5281/zenodo.18000974](https://doi.org/10.5281/zenodo.18000974)
 
+- **Friebe, R. M. (2026). Teaching Scientific Writing in Applied Bachelor Programs: Didactic Strategies for Structure, Argument, and Assessment.** 
+  Zenodo. [https://doi.org/10.5281/zenodo.18489177](https://doi.org/10.5281/zenodo.18489177)
+
 - **Psychic Scripts and Conscious Reprogramming in an Algorithmic Culture: A Jungian Framework for Symbolic Agency**  
   Scholarly preprint, Zenodo (2025).  
   DOI: [https://doi.org/10.5281/zenodo.17978270](https://doi.org/10.5281/zenodo.17978270)
