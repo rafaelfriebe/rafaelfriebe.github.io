@@ -1,11 +1,11 @@
 # Rafael Maria Friebe, PhD
+
 Independent researcher working at the intersection of digital humanities, psychology, and philosophy, with a focus on agency, responsibility, and subjectivity under technological and algorithmic mediation.
 
 My research develops conceptual frameworks for agency and ethical responsibility in digitally mediated environments, connecting media theory, symbolic analysis, and interpretive psychological approaches. I examine how subjectivity and meaning are shaped under conditions of technological rationality, procedural systems, and persistent inner conflict—contexts in which mastery, optimization, or resolution cannot be assumed.
 
-Across several theoretical papers, my work approaches agency not as autonomy or control, but as a form of responsibility exercised within enduring limits. This perspective informs my analyses of digital media, branding, AI-mediated communication, and educational infrastructures, where technical systems often promise coherence while human experience remains complex and unresolved.
+Across several theoretical papers, my work approaches agency not as autonomy or control, but as a form of responsibility exercised within enduring limits. This perspective informs my analyses of digital media, branding, AI-mediated communication, and educational infrastructures, where technical systems often promise coherence while human experience remains complex and unresolved. Alongside theoretical research, I place strong emphasis on academic teaching and didactic design in applied and digitally mediated higher-education contexts. My pedagogical work focuses on making scientific writing, argumentation, and assessment criteria explicit and teachable, particularly in heterogeneous Bachelor programs. I develop modular, scalable teaching frameworks that combine clear structure, formative feedback, and transparent evaluation under real institutional and time constraints.
 
-Alongside theoretical research, I place strong emphasis on academic teaching and didactic design in applied and digitally mediated higher-education contexts. My pedagogical work focuses on making scientific writing, argumentation, and assessment criteria explicit and teachable, particularly in heterogeneous Bachelor programs. I develop modular, scalable teaching frameworks that combine clear structure, formative feedback, and transparent evaluation under real institutional and time constraints.
 ---
 
 ## Research Orientation
