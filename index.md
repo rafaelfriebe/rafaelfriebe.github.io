@@ -28,7 +28,7 @@ Rather than treating psychic or cultural constraints as problems to be optimized
 
 My published and ongoing work develops a depth-psychological account of agency articulated in dialogue with philosophy, cultural theory, and digital humanities.
 
-- Teaching Scientific Writing in Applied Bachelor Programs: Didactic Strategies for Structure, Argument, and Assessment.** 
+- **Teaching Scientific Writing in Applied Bachelor Programs: Didactic Strategies for Structure, Argument, and Assessment.** 
   Zenodo (2026) [https://doi.org/10.5281/zenodo.18489177](https://doi.org/10.5281/zenodo.18489177)
 
 - **Conscious Branding, Archetypes, and Consumer Identity: A Jungian Framework for Symbolic Meaning, Cultural Individuation, and Ethical Marketing.**  
