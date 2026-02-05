@@ -1,17 +1,11 @@
 # Rafael Maria Friebe, PhD
+Independent researcher working at the intersection of digital humanities, psychology, and philosophy, with a focus on agency, responsibility, and subjectivity under technological and algorithmic mediation.
 
-Independent researcher working at the intersection of psychology, philosophy, and digital culture, with a focus on questions of agency and responsibility under technological mediation as well as ethics of AI and symbolic theory.
+My research develops conceptual frameworks for agency and ethical responsibility in digitally mediated environments, connecting media theory, symbolic analysis, and interpretive psychological approaches. I examine how subjectivity and meaning are shaped under conditions of technological rationality, procedural systems, and persistent inner conflict, where mastery and optimization cannot be assumed.
 
-Independent researcher working at the intersection of digital humanities, psychology, philosophy, and digital culture, with a focus on agency, responsibility, and subjectivity under technological mediation.
+Alongside theoretical research, I work on academic teaching and didactic design in applied higher education, with a particular emphasis on scientific writing, argumentation, and assessment. My pedagogical work focuses on making academic practices explicit, teachable, and scalable in heterogeneous Bachelor programs and digitally mediated learning contexts.
 
-My research develops conceptual frameworks for agency and responsibility that connect digital humanities and media theory with depth-oriented, interpretativ and phenomenological approaches to psychology. I examine how subjectivity, ethical responsibility, and forms of agency are shaped under conditions of algorithmic mediation, technological rationality, and procedural environments—contexts in which neither mastery, optimization, nor resolution can be assumed.
-
-Contemporary life increasingly unfolds within systems that privilege efficiency, control, and coherence, while leaving underlying tensions unresolved. Against this backdrop, my work approaches agency not as autonomy or completion, but as responsibility exercised within enduring limits. I am particularly interested in how subjectivity is formed where conflict persists despite insight or effort, and how freedom can be understood as the capacity to remain in conscious relation to what cannot simply be overcome.
-
-Alongside theoretical research, I place strong emphasis on academic teaching and didactic design in digitally mediated and applied higher-education contexts. My pedagogical work focuses on making scientific writing, argumentation, and assessment criteria explicit and teachable, particularly in heterogeneous Bachelor programs. I develop modular, scalable teaching frameworks that combine clear structure, formative feedback, and transparent evaluation, enabling students to build analytical clarity and academic responsibility under real institutional and time constraints.
-
-Across research and teaching, my work is guided by a shared concern with how meaning, responsibility, and self-relation are shaped in contemporary digital environments, especially where technical systems encourage optimization while human experience remains complex.
-
+Across research and teaching, my work is concerned with how meaning and responsibility are shaped where technical systems encourage optimization while human experience remains irreducibly complex.
 ---
 
 ## Research Orientation
