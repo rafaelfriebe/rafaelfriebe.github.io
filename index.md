@@ -1,7 +1,7 @@
 # Rafael Maria Friebe, PhD
 Independent researcher examining digital subjectivity through analytically informed, socially constrained, and methodologically non-teleological psychological description.
 
-I am an independent researcher working at the intersection of analytical psychology, social psychology, and cultural theory, with a particular focus on digital and algorithmically mediated forms of subjectivity. My work is theoretical and conceptual in orientation and proceeds under conditions of deliberate methodological restraint.
+I am working at the intersection of analytical psychology, social psychology, and cultural theory, with a particular focus on digital and algorithmically mediated forms of subjectivity. My work is theoretical and conceptual in orientation and proceeds under conditions of deliberate methodological restraint.
 
 Drawing on analytical psychology in the tradition of the Society of Analytical Psychology, as encountered through formal study and independent research, I use Jungian concepts as descriptive constraints rather than as explanatory, therapeutic, or teleological instruments. Analytical-psychological language is employed to articulate configurations of experience, symbolic tension, and ego-related limitation as they become perceptible within contemporary cultural and technological conditions. No clinical, diagnostic, or developmental claims are advanced.
 
