@@ -1,10 +1,12 @@
 # Rafael Maria Friebe, PhD
 
-Independent researcher working at the intersection of digital humanities, psychology, and philosophy, with a focus on agency, responsibility, and subjectivity under technological and algorithmic mediation.
+I am an independent researcher working at the intersection of analytical psychology, social psychology, and cultural theory, with a particular focus on digital and algorithmically mediated forms of subjectivity. My work is theoretical and conceptual in orientation and proceeds under conditions of deliberate methodological restraint.
 
-My research develops conceptual frameworks for agency and ethical responsibility in digitally mediated environments, connecting media theory, symbolic analysis, and interpretive psychological approaches. I examine how subjectivity and meaning are shaped under conditions of technological rationality, procedural systems, and persistent inner conflict—contexts in which mastery, optimization, or resolution cannot be assumed.
+Drawing on analytical psychology in the tradition of the Society of Analytical Psychology, as encountered through formal study and independent research, I use Jungian concepts as descriptive constraints rather than as explanatory, therapeutic, or teleological instruments. Analytical-psychological language is employed to articulate configurations of experience, symbolic tension, and ego-related limitation as they become perceptible in contemporary cultural and technological contexts. No clinical, diagnostic, or developmental claims are advanced.
 
-Across several theoretical papers, my work approaches agency not as autonomy or control, but as a form of responsibility exercised within enduring limits. This perspective informs my analyses of digital media, branding, AI-mediated communication, and educational infrastructures, where technical systems often promise coherence while human experience remains complex and unresolved. Alongside theoretical research, I place strong emphasis on academic teaching and didactic design in applied and digitally mediated higher-education contexts. My pedagogical work focuses on making scientific writing, argumentation, and assessment criteria explicit and teachable, particularly in heterogeneous Bachelor programs. I develop modular, scalable teaching frameworks that combine clear structure, formative feedback, and transparent evaluation under real institutional and time constraints.
+Social-psychological perspectives function in my work as an external limiting framework, preventing symbolic interpretation from becoming detached from social structure, collective dynamics, and material mediation. Rather than synthesizing psychological idioms into a unified theory, my approach maintains their differences as analytically productive.
+
+My research is concerned with responsibility, constraint, and the endurance of subjectivity under conditions where meaning, integration, or individuation cannot be presupposed. I do not offer models of healing, optimization, or self-realization. The work remains descriptive by design, concerned with structure and implication rather than outcome or prescription.
 
 ---
 
