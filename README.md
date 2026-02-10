@@ -1,11 +1,12 @@
 # Rafael Maria Friebe, PhD
 
-Independent researcher working at the intersection of psychology, philosophy, and digital culture, with a focus on questions of agency and responsibility under technological mediation.
+I am an independent researcher working at the intersection of analytical psychology, social psychology, and cultural theory, with a particular focus on digital and algorithmically mediated forms of subjectivity. My work is theoretical and conceptual in orientation and proceeds under conditions of deliberate methodological restraint.
 
-I develop conceptual frameworks for agency and responsibility that speak across digital humanities, media theory, and depth/phenomenological psychology.
-My work examines how subjectivity, ethical responsibility, and forms of agency are shaped under conditions of algorithmic mediation, technological rationality, and persistent inner conflict—conditions in which neither mastery nor resolution can be assumed. 
-Contemporary life increasingly unfolds within procedural and algorithmically mediated environments that privilege optimization, control, and coherence.
-Against this backdrop, my research approaches agency not as mastery or completion, but as a form of responsibility exercised within enduring limits. Drawing on psychology, philosophy, and symbolic theory, I investigate how subjectivity is formed where necessity persists despite insight or effort, and how freedom can be understood as the capacity to remain in conscious relation to what cannot simply be overcome.
+Drawing on analytical psychology in the tradition of the Society of Analytical Psychology, as encountered through formal study and independent research, I use Jungian concepts as descriptive constraints rather than as explanatory, therapeutic, or teleological instruments. Analytical-psychological language is employed to articulate configurations of experience, symbolic tension, and ego-related limitation as they become perceptible in contemporary cultural and technological contexts. No clinical, diagnostic, or developmental claims are advanced.
+
+Social-psychological perspectives function in my work as an external limiting framework, preventing symbolic interpretation from becoming detached from social structure, collective dynamics, and material mediation. Rather than synthesizing psychological idioms into a unified theory, my approach maintains their differences as analytically productive.
+
+My research is concerned with responsibility, constraint, and the endurance of subjectivity under conditions where meaning, integration, or individuation cannot be presupposed. I do not offer models of healing, optimization, or self-realization. The work remains descriptive by design, concerned with structure and implication rather than outcome or prescription.
 
 ---
 
