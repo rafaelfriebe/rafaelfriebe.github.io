@@ -1,20 +1,20 @@
 # Rafael Maria Friebe, PhD
 Independent researcher examining digital subjectivity through analytically informed, socially constrained, and methodologically non-teleological psychological description.
 
-I am working at the intersection of analytical psychology, social psychology, and cultural theory, with a particular focus on digital and algorithmically mediated forms of subjectivity. My work is theoretical and conceptual in orientation and proceeds under conditions of deliberate methodological restraint.
+I am an independent researcher working at the intersection of Digital Humanities, analytical psychology, social psychology, and cultural theory, with a particular focus on digital and algorithmically mediated forms of subjectivity.
 
-Drawing on analytical psychology in the tradition of the Society of Analytical Psychology, as encountered through formal study and independent research, I use Jungian concepts as descriptive constraints rather than as explanatory, therapeutic, or teleological instruments. Analytical-psychological language is employed to articulate configurations of experience, symbolic tension, and ego-related limitation as they become perceptible within contemporary cultural and technological conditions. No clinical, diagnostic, or developmental claims are advanced.
+My work is theoretical and conceptual in orientation and proceeds under conditions of deliberate methodological restraint. Drawing on analytical psychology in the tradition of the Society of Analytical Psychology, I employ Jungian concepts as descriptive constraints rather than explanatory or teleological frameworks. Analytical-psychological language serves to articulate configurations of symbolic tension, ego-positioning, and psychic limitation as they become perceptible in contemporary cultural and technological environments. The approach remains non-clinical and structurally analytic.
 
-Social-psychological perspectives function in my work as an external limiting framework, preventing symbolic interpretation from becoming detached from social structure, collective dynamics, and material mediation. Rather than synthesizing psychological idioms into a unified explanatory system, my approach maintains their differences as analytically productive.
+Social-psychological and media-theoretical perspectives function as external limiting frameworks, grounding symbolic analysis in social structure, collective dynamics, institutional conditions, and material mediation. Rather than synthesizing these idioms into a unified theory, my work maintains their differences as analytically productive tensions.
 
-My research is concerned with responsibility, constraint, and the endurance of subjectivity under conditions in which meaning, integration, or individuation cannot be presupposed. I do not offer models of healing, optimization, or self-realization. The work remains descriptive by design, concerned with structure and implication rather than outcome or prescription.
+A central focus of my research lies in the examination of digital and AI-influenced media cultures as symbolic systems. I investigate how narrative structures, visual forms, branding environments, and computational mediation participate in processes of identity formation, symbolic orientation, and cultural meaning-making. My long-term professional practice in filmmaking and media production informs this perspective, enabling a practice-sensitive analysis of visual and narrative structures in digital contexts.
 
 ---
 
 ## Research Orientation
 I approach freedom not as mastery or resolution, but as the capacity to bear necessity under conditions where conflict, limitation, and persistence are structurally unavoidable.
 
-Rather than treating psychic or cultural constraints as problems to be optimized away, my work understands them as forms of address that demand ongoing responsibility. Agency, on this view, is exercised not through control, coherence, or completion, but through the sustained and reflective manner in which what persists is lived. This orientation situates freedom within limits rather than beyond them, emphasizing responsibility without appealing to voluntarist, therapeutic, or heroic notions of autonomy.
+Rather than treating psychic or cultural constraints as problems to be optimized away, my work understands them as forms of address that demand ongoing responsibility. Agency, on this view, is exercised not through completion or coherence, but through the sustained and reflective manner in which structural conditions are inhabited. This orientation situates freedom within limits rather than beyond them and reframes subjectivity as a site of responsibility under technologically mediated conditions.
 
 ---
 
