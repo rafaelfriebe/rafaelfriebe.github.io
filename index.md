@@ -39,6 +39,10 @@ My published and ongoing work develops a depth-psychological account of agency a
   Preprint: Zenodo (2025).  
   DOI: [https://doi.org/10.5281/zenodo.17783482](https://doi.org/10.5281/zenodo.17783482)
 
+- **Analytical Psychology as Descriptive Constraint in Digital Subjectivity**  
+  Scholarly preprint, Zenodo (2026).  
+  DOI: [https://doi.org/10.5281/zenodo.18613759](https://doi.org/10.5281/zenodo.18613759)
+
 - **Freedom as the Capacity to Bear Necessity: Subjectivity, Responsibility, and Digital Mediation**  
   Scholarly preprint, Zenodo (2025).  
   DOI: [https://doi.org/10.5281/zenodo.18000974](https://doi.org/10.5281/zenodo.18000974)
