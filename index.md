@@ -1,31 +1,27 @@
 # Rafael Maria Friebe, PhD
-Independent researcher examining digital subjectivity through analytically informed, socially constrained, and methodologically non-teleological psychological description.
+Independent researcher working at the intersection of Digital Humanities, analytical psychology, social psychology, and cultural theory, with a particular focus on digital and algorithmically mediated forms of subjectivity.
 
-I am an independent researcher working at the intersection of Digital Humanities, analytical psychology, social psychology, cultural theory, and audiovisual practice, with a particular focus on digital and algorithmically mediated forms of subjectivity.
+My research is theoretical and conceptually rigorous, proceeding under conditions of deliberate methodological restraint. Drawing on analytical psychology in the tradition of the Society of Analytical Psychology, I employ Jungian concepts as descriptive constraints rather than explanatory, therapeutic, or teleological frameworks. Analytical language serves to articulate configurations of symbolic tension, ego-positioning, and psychic limitation as they become perceptible in contemporary cultural and technological environments. The work remains non-clinical and structurally analytic.
 
-My work is theoretical and conceptual in orientation and proceeds under conditions of deliberate methodological restraint. Drawing on analytical psychology in the tradition of the Society of Analytical Psychology, I employ Jungian concepts as descriptive constraints rather than explanatory or teleological frameworks. Analytical-psychological language serves to articulate configurations of symbolic tension, ego-positioning, and psychic limitation as they become perceptible in contemporary cultural and technological environments. The approach remains non-clinical and structurally analytic.
+Social-psychological and media-theoretical perspectives function as external limiting frameworks, grounding symbolic analysis in social structure, institutional conditions, collective dynamics, and material mediation. Rather than synthesizing these idioms into a unified theory, my approach maintains their differences as analytically productive tensions.
 
-Social-psychological and media-theoretical perspectives function as external limiting frameworks, grounding symbolic analysis in social structure, collective dynamics, institutional conditions, and material mediation. Rather than synthesizing these idioms into a unified theory, my work maintains their differences as analytically productive tensions.
-
-A central focus of my research lies in the examination of digital and AI-influenced media cultures as symbolic systems. I investigate how narrative structures, visual composition, performance, branding environments, and computational mediation participate in processes of identity formation, symbolic orientation, and cultural meaning-making.
-
-My long-term professional practice in filmmaking, cinematography, and media production forms an integral part of this perspective. Film and audiovisual production are approached not merely as objects of analysis but as practice-based sites of symbolic construction, narrative ethics, and affective structuring. This dual position—analytic and practice-based—allows for a methodologically reflective engagement with contemporary visual cultures under digital conditions.
+A central focus of my research lies in digital and AI-influenced media cultures as symbolic systems. I examine how narrative structures, visual forms, branding environments, and computational mediation participate in processes of identity formation and cultural meaning-making. My long-term professional practice in filmmaking and media production informs this perspective, enabling a practice-sensitive analysis of cinematic form, symbolic communication, and digitally mediated storytelling.
 
 ---
 
 ## Research Orientation
 I approach freedom not as mastery or resolution, but as the capacity to bear necessity under conditions where conflict, limitation, and persistence are structurally unavoidable.
 
-Rather than treating psychic or cultural constraints as problems to be optimized away, my work understands them as forms of address that demand ongoing responsibility. Agency, on this view, is exercised not through completion or coherence, but through the sustained and reflective manner in which structural conditions are inhabited. This orientation situates freedom within limits rather than beyond them and reframes subjectivity as a site of responsibility within technologically mediated environments.
+Rather than treating psychic or cultural constraints as problems to be optimized away, my work understands them as forms of address that demand ongoing responsibility. Agency, on this view, is exercised not through coherence or completion, but through the sustained and reflective manner in which structural conditions are inhabited. Freedom is thus situated within limits rather than beyond them, and subjectivity is examined as a site of responsibility under technologically mediated conditions.
 
 ---
 
 ## Core Concepts and Themes
-- Freedom as responsibility under necessity
-- Subjectivity beyond mastery and optimization
-- Psychic persistence as ethical address
-- Limits of agency under digital mediation
-- Symbolic structures of contemporary culture   
+- Freedom as responsibility within necessity
+- Subjectivity beyond mastery and optimization paradigms
+- Psychic persistence as ethical and structural address
+- Limits and conditions of agency under digital mediation
+- Symbolic structures in contemporary media cultures
 
 ---
 
