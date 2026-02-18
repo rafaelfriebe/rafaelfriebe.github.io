@@ -17,11 +17,11 @@ Rather than treating psychic or cultural constraints as problems to be optimized
 ---
 
 ## Core Concepts and Themes
+- Symbolic structures in contemporary media cultures
 - Freedom as responsibility within necessity
 - Subjectivity beyond mastery and optimization paradigms
 - Psychic persistence as ethical and structural address
 - Limits and conditions of agency under digital mediation
-- Symbolic structures in contemporary media cultures
 
 ---
 
