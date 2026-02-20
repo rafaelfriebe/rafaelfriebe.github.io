@@ -17,8 +17,6 @@ Digital and AI-mediated production environments intensify these dynamics. Algori
 
 My research is concerned with responsibility and constraint — with the endurance of subjectivity where integration or individuation cannot be presupposed. The work remains descriptive by design, concerned with structure and implication rather than prescription.
 
----
-
 ## Research Orientation
 I approach freedom not as mastery or resolution, but as the capacity to bear necessity under conditions where conflict, limitation, and persistence are structurally unavoidable.
 
