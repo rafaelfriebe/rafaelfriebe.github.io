@@ -70,8 +70,8 @@ My research develops a non-teleological, depth-psychological account of agency u
 ## Profiles & Links
 - **ORCID** – [0000-0003-5676-1271](https://orcid.org/0000-0003-5676-1271)  
 - **Zenodo (Publications & Preprints)** – [View Research Outputs](https://zenodo.org)  
-- **OSF (Open Science Framework)** – [Research Profile](https://osf.io)  
 - **IMDb (Selected Film Work)** – [Filmography](https://www.imdb.com/name/nm15068174/)  
+- **OSF (Open Science Framework)** – [Research Profile](https://osf.io)  
 
 ---
 
