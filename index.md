@@ -1,72 +1,87 @@
 # Rafael Maria Friebe, PhD
-Independent researcher working at the intersection of Digital Humanities, analytical psychology, social psychology, and cultural theory, with a particular focus on digital and algorithmically mediated forms of subjectivity.
+Independent researcher and filmmaker working at the intersection of Digital Humanities, film practice, analytical psychology, and media theory.
 
-My research is theoretical and conceptually rigorous, proceeding under conditions of deliberate methodological restraint. Drawing on analytical psychology in the tradition of the Society of Analytical Psychology, I employ Jungian concepts as descriptive constraints rather than explanatory, therapeutic, or teleological frameworks. Analytical language serves to articulate configurations of symbolic tension, ego-positioning, and psychic limitation as they become perceptible in contemporary cultural and technological environments. The work remains non-clinical and structurally analytic.
+My work examines contemporary media cultures as symbolic environments in which identity, conflict, and agency are negotiated under digital and algorithmic conditions. I am particularly interested in how narrative and visual structures render inner tensions perceptible — not as metaphysical claims, but as aesthetic and cultural configurations.
 
-Social-psychological and media-theoretical perspectives function as external limiting frameworks, grounding symbolic analysis in social structure, institutional conditions, collective dynamics, and material mediation. Rather than synthesizing these idioms into a unified theory, my approach maintains their differences as analytically productive tensions.
+Drawing on analytical psychology in a methodologically restrained manner, I use Jungian concepts as descriptive constraints rather than explanatory or therapeutic frameworks. Analytical language serves to articulate configurations of rupture, persistence, and ego-limitation as they emerge in contemporary technological contexts. The approach remains non-clinical and non-teleological.
 
-A central focus of my research lies in digital and AI-influenced media cultures as symbolic systems. I examine how narrative structures, visual forms, branding environments, and computational mediation participate in processes of identity formation and cultural meaning-making. My long-term professional practice in filmmaking and media production informs this perspective, enabling a practice-sensitive analysis of cinematic form, symbolic communication, and digitally mediated storytelling.
+Social-psychological and media-theoretical perspectives function as external limiting frameworks, grounding symbolic analysis in social structure, collective dynamics, and material mediation. Rather than synthesizing these idioms into a unified theory, my work maintains their tensions as analytically productive.
 
----
+## Film, Symbolic Structure, and Digital Mediation
+
+My long-term professional practice in filmmaking informs this perspective. Film operates as a site where symbolic structures become visible in embodied form — in gesture, silence, framing, rhythm, and spatial tension. Contemporary cinema continues to draw on mythic narrative grammars — crisis, descent, confrontation, transformation — yet these function as aesthetic architectures rather than spiritual doctrines.
+
+In my practice-based work, narrative rupture and psychological destabilization are treated as structural events. A single moment of fracture can reorganize identity, perception, and relational space. Transformation is not presented as awakening or resolution, but as reconfiguration under pressure.
+
+Digital and AI-mediated production environments intensify these dynamics. Algorithmic systems shape visibility, pacing, and affective circulation. I therefore investigate how cinematic form, branding environments, and computational mediation participate in processes of symbolic orientation and identity formation.
+
+My research is concerned with responsibility and constraint — with the endurance of subjectivity where integration or individuation cannot be presupposed. The work remains descriptive by design, concerned with structure and implication rather than prescription.
 
 ## Research Orientation
 I approach freedom not as mastery or resolution, but as the capacity to bear necessity under conditions where conflict, limitation, and persistence are structurally unavoidable.
 
-Rather than treating psychic or cultural constraints as problems to be optimized away, my work understands them as forms of address that demand ongoing responsibility. Agency, on this view, is exercised not through coherence or completion, but through the sustained and reflective manner in which structural conditions are inhabited. Freedom is thus situated within limits rather than beyond them, and subjectivity is examined as a site of responsibility under technologically mediated conditions.
-
----
+Rather than treating psychic or cultural constraints as problems to be optimized away, my work understands them as forms of address that demand ongoing responsibility. Agency, on this view, is exercised not through control, coherence, or completion, but through the sustained and reflective manner in which what persists is lived. This orientation situates freedom within limits rather than beyond them, emphasizing responsibility without appealing to voluntarist, therapeutic, or heroic notions of autonomy.
 
 ## Core Concepts and Themes
-- Symbolic structures in contemporary media cultures
-- Freedom as responsibility within necessity
-- Subjectivity beyond mastery and optimization paradigms
-- Limits and conditions of agency under digital mediation
-- Psychic persistence as ethical and structural address
 
----
+- Symbolic structures in contemporary media cultures
+- Narrative rupture and identity reconfiguration
+- Film as embodied symbolic articulation
+- Digital and AI-mediated subject formation
+- Freedom as responsibility under necessity
+- Limits of agency in algorithmic environments
 
 ## Selected Publications & Preprints
 
-My published and ongoing work develops a depth-psychological account of agency articulated in dialogue with philosophy, cultural theory, and digital humanities.
+My research develops a non-teleological, depth-psychological account of agency under digitally mediated conditions. Across theoretical, cultural, and applied contexts, the work examines how symbolic structures organize subjectivity, responsibility, and identity formation in contemporary media environments.
 
-- **Teaching Scientific Writing in Applied Bachelor Programs: Didactic Strategies for Structure, Argument, and Assessment.** 
-  Zenodo (2026) [https://doi.org/10.5281/zenodo.18489177](https://doi.org/10.5281/zenodo.18489177)
+### Peer-Reviewed Publication
 
-- **Conscious Branding, Archetypes, and Consumer Identity: A Jungian Framework for Symbolic Meaning, Cultural Individuation, and Ethical Marketing.**  
-  Journal of Higher Education Theory and Practice, 26(1). (accepted for publication)  
-  Preprint: Zenodo (2025).  
-  DOI: [https://doi.org/10.5281/zenodo.17783482](https://doi.org/10.5281/zenodo.17783482)
+- **Conscious Branding, Archetypes, and Consumer Identity: A Jungian Framework for Symbolic Meaning, Cultural Individuation, and Ethical Marketing**  
+  *Journal of Higher Education Theory and Practice*, 26(1), 2025.  
+  Open-access version: https://doi.org/10.5281/zenodo.17783482  
+
+### Theoretical Foundations: Subjectivity, Constraint, Agency
 
 - **Analytical Psychology as Descriptive Constraint in Digital Subjectivity**  
-  Scholarly preprint, Zenodo (2026).  
-  DOI: [https://doi.org/10.5281/zenodo.18613759](https://doi.org/10.5281/zenodo.18613759)
+  Preprint, Zenodo (2025).  
+  https://doi.org/10.5281/zenodo.18613759  
 
 - **Freedom as the Capacity to Bear Necessity: Subjectivity, Responsibility, and Digital Mediation**  
-  Scholarly preprint, Zenodo (2025).  
-  DOI: [https://doi.org/10.5281/zenodo.18000974](https://doi.org/10.5281/zenodo.18000974)
+  Preprint, Zenodo (2025).  
+  https://doi.org/10.5281/zenodo.18000974  
 
 - **Psychic Scripts and Conscious Reprogramming in an Algorithmic Culture: A Jungian Framework for Symbolic Agency**  
-  Scholarly preprint, Zenodo (2025).  
-  DOI: [https://doi.org/10.5281/zenodo.17978270](https://doi.org/10.5281/zenodo.17978270)
+  Preprint, Zenodo (2025).  
+  https://doi.org/10.5281/zenodo.17978270  
+
+### Applied and Cultural Extensions
 
 - **Conscious Branding for the Age of AI: A Jungian Framework for Symbolic, Psychological, and Ethical Communication**  
-  Scholarly preprint, Zenodo (2025).  
-  DOI: [https://doi.org/10.5281/zenodo.17849993](https://doi.org/10.5281/zenodo.17849993)
+  Preprint, Zenodo (2025).  
+  https://doi.org/10.5281/zenodo.17849993  
 
 - **Bearing Psychic Necessity in Mediated Education: Media Infrastructures, Non-Sovereignty, and Educational Responsibility**  
-  Scholarly preprint, Zenodo (2025).  
-  DOI: [https://doi.org/10.5281/zenodo.18038742](https://doi.org/10.5281/zenodo.18038742)
+  Preprint, Zenodo (2025).  
+  https://doi.org/10.5281/zenodo.18038742  
 
 ---
 
 ## Profiles & Links
-- ORCID: [https://orcid.org/0000-0003-5676-1271](https://orcid.org/0009-0003-5676-1271)
-- Zenodo: [https://zenodo.org/search?q=metadata.creators.person_Friebe_Rafael_Maria](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Friebe%2C%20Rafael%20Maria%22&l=list&p=1&s=10&sort=bestmatch) 
-- OSF: [https://osf.io/search?search=rafael%20maria%20friebe](https://osf.io/search?search=rafael%20maria%20friebe)
-- IMDb (selected film work): [https://www.imdb.com/name/nm15068174/](https://www.imdb.com/name/nm15068174/)
+- ORCID: https://orcid.org/0000-0003-5676-1271
+- Zenodo: https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Friebe%2C%20Rafael%20Maria%22&l=list&p=1&s=10&sort=bestmatch
+- OSF: https://osf.io/search?search=rafael%20maria%20friebe
+- IMDb (selected film work): https://www.imdb.com/name/nm15068174/
 
+---
+
+## Teaching Topics
+
+- Digital humanities & algorithmic culture
+- Ethics of AI and mediation
+- Symbolic theory
+  
 ---
 
 ## Contact
 Email: rafaelfriebe@gmail.com
-
