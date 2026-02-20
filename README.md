@@ -22,8 +22,6 @@ I approach freedom not as mastery or resolution, but as the capacity to bear nec
 
 Rather than treating psychic or cultural constraints as problems to be optimized away, my work understands them as forms of address that demand ongoing responsibility. Agency, on this view, is exercised not through control, coherence, or completion, but through the sustained and reflective manner in which what persists is lived. This orientation situates freedom within limits rather than beyond them, emphasizing responsibility without appealing to voluntarist, therapeutic, or heroic notions of autonomy.
 
----
-
 ## Core Concepts and Themes
 
 - Symbolic structures in contemporary media cultures
@@ -32,8 +30,6 @@ Rather than treating psychic or cultural constraints as problems to be optimized
 - Digital and AI-mediated subject formation
 - Freedom as responsibility under necessity
 - Limits of agency in algorithmic environments
-
----
 
 ## Selected Publications & Preprints
 
