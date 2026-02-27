@@ -74,7 +74,7 @@ My research develops a non-teleological, depth-psychological account of agency u
 
 ## Profiles & Links
 - **ORCID** – [0000-0003-5676-1271](https://orcid.org/0000-0003-5676-1271)  
-- **Zenodo (Publications & Preprints)** – [View Research Outputs](https://zenodo.org)  
+- **Zenodo (Publications & Preprints)** – [View Research Outputs](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Friebe%2C%20Rafael%20Maria%22&l=list&p=1&s=10&sort=bestmatch)  
 - **IMDb (Selected Film Work)** – [Filmography](https://www.imdb.com/name/nm15068174/)  
 - **OSF (Open Science Framework)** – [Research Profile](https://osf.io)  
 
