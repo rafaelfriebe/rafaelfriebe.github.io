@@ -63,7 +63,12 @@ My research develops a non-teleological, depth-psychological account of agency u
 
 - **Bearing Psychic Necessity in Mediated Education: Media Infrastructures, Non-Sovereignty, and Educational Responsibility**  
   Preprint, Zenodo (2025).  
-  DOI: [10.5281/zenodo.18038742](https://doi.org/10.5281/zenodo.18038742) 
+  DOI: [10.5281/zenodo.18038742](https://doi.org/10.5281/zenodo.18038742)
+
+- **Teaching Scientific Writing in Applied Bachelor Programs: Didactic Strategies for Structure, Argument, and Assessment**  
+  Preprint, Zenodo (2025).  
+  DOI: [10.5281/zenodo.18489177](https://doi.org/10.5281/zenodo.18489177)
+
 
 ---
 
