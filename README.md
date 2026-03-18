@@ -38,7 +38,7 @@ My research develops a non-teleological, depth-psychological account of agency u
 ### Peer-Reviewed Publication
 
 - **Conscious Branding, Archetypes, and Consumer Identity: A Jungian Framework for Symbolic Meaning, Cultural Individuation, and Ethical Marketing**  
-  *Journal of Higher Education Theory and Practice*, 26(1), 2025.  
+  *Journal of Higher Education Theory and Practice*, 26(1), 2026. [https://doi.org/10.33423/jhetp.v26i1](https://doi.org/10.33423/jhetp.v26i1)
   Open-access version: DOI: [10.5281/zenodo.17783482](https://doi.org/10.5281/zenodo.17783482)
 
 ### Theoretical Foundations: Subjectivity, Constraint, Agency
