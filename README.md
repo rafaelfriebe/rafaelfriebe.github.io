@@ -7,7 +7,7 @@ Drawing on analytical psychology in a methodologically restrained manner, I use 
 
 Social-psychological and media-theoretical perspectives function as external limiting frameworks, grounding symbolic analysis in social structure, collective dynamics, and material mediation. Rather than synthesizing these idioms into a unified theory, my work maintains their tensions as analytically productive.
 
-## Film, Symbolic Structure, and Digital Mediation
+## Symbolic Structure, and Digital Mediation
 
 My long-term professional practice in filmmaking informs this perspective. Film operates as a site where symbolic structures become visible in embodied form — in gesture, silence, framing, rhythm, and spatial tension. Contemporary cinema continues to draw on mythic narrative grammars — crisis, descent, confrontation, transformation — yet these function as aesthetic architectures rather than spiritual doctrines.
 
@@ -26,7 +26,7 @@ Rather than treating psychic or cultural constraints as problems to be optimized
 
 - Symbolic structures in contemporary media cultures
 - Narrative rupture and identity reconfiguration
-- Film as embodied symbolic articulation
+- Film and art as embodied symbolic articulation
 - Digital and AI-mediated subject formation
 - Freedom as responsibility under necessity
 - Limits of agency in algorithmic environments
