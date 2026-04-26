@@ -1,5 +1,5 @@
 # Rafael Maria Friebe, PhD
-Independent researcher and filmmaker working at the intersection of Digital Humanities, film practice, analytical psychology, and media theory.
+Independent researcher and filmmaker working at the intersection of Digital Humanities, film practice, social & analytical psychology, and media theory.
 
 My work examines contemporary media cultures as symbolic environments in which identity, conflict, and agency are negotiated under digital and algorithmic conditions. I am particularly interested in how narrative and visual structures render inner tensions perceptible — not as metaphysical claims, but as aesthetic and cultural configurations.
 
