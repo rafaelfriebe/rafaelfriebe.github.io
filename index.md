@@ -1,12 +1,9 @@
-# Rafael Maria Friebe, PhD
-Independent researcher and filmmaker working at the intersection of Digital Humanities, film practice, social & analytical psychology, and media theory.
+# Rafael Maria Friebe, PhD,
+is an independent researcher, filmmaker, and lecturer working at the intersection of social and analytical psychology, media theory, digital culture, education, and branding.
 
-My work examines contemporary media cultures as symbolic environments in which identity, conflict, and agency are negotiated under digital and algorithmic conditions. I am particularly interested in how narrative and visual structures render inner tensions perceptible — not as metaphysical claims, but as aesthetic and cultural configurations.
+His social-psychological work focuses on social identity, persuasion, consumer behaviour, self-concept, and the ways in which media narratives shape individual and collective meaning. His analytical-psychological research uses Jungian concepts in a methodologically restrained, non-clinical, and non-teleological manner.
 
-Drawing on analytical psychology in a methodologically restrained manner, I use Jungian concepts as descriptive constraints rather than explanatory or therapeutic frameworks. Analytical language serves to articulate configurations of rupture, persistence, and ego-limitation as they emerge in contemporary technological contexts. The approach remains non-clinical and non-teleological.
-
-Social-psychological and media-theoretical perspectives function as external limiting frameworks, grounding symbolic analysis in social structure, collective dynamics, and material mediation. Rather than synthesizing these idioms into a unified theory, my work maintains their tensions as analytically productive.
-
+Across publications on digital subjectivity, psychic scripts, freedom and necessity, mediated education, artificial intelligence, consumer identity, and conscious branding, his work examines how symbolic narratives and technological infrastructures shape identity, agency, responsibility, and cultural meaning.
 ## Symbolic Structures and Digital Mediation
 
 My long-term professional practice in filmmaking informs this perspective. Film operates as a site where symbolic structures become visible in embodied form — in gesture, silence, framing, rhythm, and spatial tension. Contemporary cinema continues to draw on mythic narrative grammars — crisis, descent, confrontation, transformation — yet these function as aesthetic architectures rather than spiritual doctrines.
