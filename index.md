@@ -27,19 +27,23 @@ This orientation situates freedom within limits rather than beyond them. It emph
 ## Core Concepts and Themes
 
 - Social identity, persuasion, and consumer behaviour
+- Consumer identity and symbolic consumption
 - Symbolic structures in contemporary media cultures
 - Narrative rupture and identity reconfiguration
 - Film and art as embodied symbolic articulation
 - Digital and AI-mediated subject formation
-- Consumer identity and symbolic consumption
+- Media psychology and collective meaning
+- Marketing psychology and ethical communication
+- Branding, archetypes, and consumer culture
 - Freedom as responsibility under necessity
 - Limits of agency in algorithmic environments
 - Non-teleological applications of analytical psychology
-- Ethical communication and symbolic responsibility
+- Symbolic mediation and psychological responsibility
+- Education, academic writing, and reflective practice
 
 ## Publications and Preprints
 
-My research develops an interdisciplinary account of agency, identity, and symbolic meaning under socially and technologically mediated conditions. Across theoretical, cultural, and applied contexts, the work examines how psychological, social, and infrastructural structures organise subjectivity, responsibility, consumer meaning, and identity formation.
+My research develops an interdisciplinary account of agency, identity, and symbolic meaning under socially and technologically mediated conditions. Across theoretical, cultural, and applied contexts, the work examines how psychological, social, symbolic, and infrastructural structures organise subjectivity, responsibility, consumer meaning, and identity formation.
 
 ### Peer-Reviewed Publication
 
@@ -99,6 +103,7 @@ My research develops an interdisciplinary account of agency, identity, and symbo
 - Artificial intelligence and communication ethics
 - Academic and scientific writing
 - Research methods and qualitative interpretation
+- Higher education and applied learning
 - Film, visual symbolism, and narrative form
 
 ---
@@ -109,6 +114,7 @@ My research develops an interdisciplinary account of agency, identity, and symbo
 - **Zenodo** – [Publications and Preprints](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Friebe%2C%20Rafael%20Maria%22&l=list&p=1&s=10&sort=bestmatch)
 - **Academia.edu** – [Academic Profile](https://independent.academia.edu/DrDrRafaelMariaFriebeUCNUA)
 - **Google Scholar** – [Citation Profile](https://scholar.google.com/citations?hl=en&user=8140_68AAAAJ)
+- **ResearchGate** – [Research Profile](https://www.researchgate.net/publication/401947786)
 - **IMDb** – [Selected Film Work](https://www.imdb.com/name/nm15068174/)
 
 ---
