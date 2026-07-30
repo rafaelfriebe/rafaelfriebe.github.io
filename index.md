@@ -7,7 +7,7 @@ Drawing on analytical psychology in a methodologically restrained manner, I use 
 
 Social-psychological and media-theoretical perspectives function as external limiting frameworks, grounding symbolic analysis in social structure, collective dynamics, and material mediation. Rather than synthesizing these idioms into a unified theory, my work maintains their tensions as analytically productive.
 
-## Symbolic Structure, and Digital Mediation
+## Symbolic Structures and Digital Mediation
 
 My long-term professional practice in filmmaking informs this perspective. Film operates as a site where symbolic structures become visible in embodied form — in gesture, silence, framing, rhythm, and spatial tension. Contemporary cinema continues to draw on mythic narrative grammars — crisis, descent, confrontation, transformation — yet these function as aesthetic architectures rather than spiritual doctrines.
 
@@ -39,7 +39,8 @@ My research develops a non-teleological, depth-psychological account of agency u
 
 - **Conscious Branding, Archetypes, and Consumer Identity: A Jungian Framework for Symbolic Meaning, Cultural Individuation, and Ethical Marketing**  
   *Journal of Higher Education Theory and Practice*, 26(1), 2026. DOI: [10.33423/56r52t42](https://doi.org/10.33423/56r52t42)
-  **ResearchGate:** [https://www.researchgate.net/publication/401947786](https://www.researchgate.net/publication/401947786) 
+  **ResearchGate:** [https://www.researchgate.net/publication/401947786](https://www.researchgate.net/publication/401947786)
+  Open-access author manuscript: DOI: [10.5281/zenodo.18247329](https://doi.org/10.5281/zenodo.18247329)
 
 ### Theoretical Foundations: Subjectivity, Constraint, Agency
 
