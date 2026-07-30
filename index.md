@@ -1,47 +1,33 @@
 # Rafael Maria Friebe, PhD
 
-**Independent researcher, filmmaker, and lecturer working at the intersection of social and analytical psychology, media theory, digital culture, education, and branding.**
+I am an independent researcher, filmmaker, and lecturer working at the intersection of social and analytical psychology, media theory, digital culture, education, and branding.
 
-My social-psychological research focuses on social identity, persuasion, consumer behaviour, self-concept, and the ways in which media narratives shape individual and collective meaning. My analytical-psychological work uses Jungian concepts in a methodologically restrained, non-clinical, and non-teleological manner.
+My social-psychological work focuses on social identity, persuasion, consumer behaviour, self-concept, and the ways in which media narratives shape individual and collective meaning. My analytical-psychological research uses Jungian concepts in a methodologically restrained, non-clinical, and non-teleological manner.
 
 Across publications on digital subjectivity, psychic scripts, freedom and necessity, mediated education, artificial intelligence, consumer identity, branding, and digital psychology, my work examines how symbolic narratives and technological infrastructures shape identity, agency, responsibility, and cultural meaning.
+
+## Symbolic Structures and Digital Mediation
+
+My long-term professional practice in filmmaking informs this perspective. Film operates as a site where symbolic structures become visible in embodied form—in gesture, silence, framing, rhythm, sound, and spatial tension. Contemporary cinema continues to draw on mythic narrative structures such as crisis, descent, confrontation, transformation, and return. In my work, these are approached as aesthetic and psychological architectures rather than as spiritual doctrines or predetermined developmental stages.
+
+In my practice-based work, narrative rupture and psychological destabilisation are treated as structural events. A single moment of fracture can reorganise identity, perception, embodiment, and relational space. Transformation is therefore not necessarily presented as awakening, healing, or resolution, but as reconfiguration under pressure.
+
+Digital and AI-mediated production environments intensify these dynamics. Algorithmic systems increasingly shape visibility, pacing, attention, and affective circulation. I therefore investigate how cinematic form, branding environments, digital platforms, and computational mediation participate in processes of symbolic orientation and identity formation.
+
+My research is concerned with responsibility and constraint—with the endurance of subjectivity where integration, resolution, or individuation cannot be presupposed. The work remains descriptive by design and is concerned with structure, tension, and implication rather than diagnosis or prescription.
 
 ## Research Orientation
 
 I approach freedom not as mastery, unrestricted autonomy, or final resolution, but as the capacity to bear necessity under conditions in which conflict, limitation, and persistence remain structurally unavoidable.
 
-Rather than treating psychic or cultural constraints simply as problems to be optimised away, my research approaches them as conditions of address that demand sustained reflection and responsibility. Agency, from this perspective, is exercised not through complete control or coherence, but through the manner in which individuals remain consciously related to what persists.
+Rather than treating psychic, social, or cultural constraints simply as problems to be optimised away, my work understands them as conditions of address that demand sustained reflection and responsibility. Agency, from this perspective, is exercised not through complete control, coherence, or completion, but through the manner in which individuals remain consciously related to what persists.
 
-This orientation situates freedom within limits rather than beyond them. It emphasises responsibility without relying on voluntarist, therapeutic, or heroic models of autonomy.
-
-## Research Areas
-
-- Social identity, persuasion, and consumer behaviour
-- Analytical and depth psychology
-- Digital subjectivity and algorithmic culture
-- Media psychology and symbolic communication
-- Consumer identity, branding, and marketing ethics
-- Artificial intelligence and mediated communication
-- Educational responsibility and digital education
-- Academic and scientific writing
-- Film, visual symbolism, and narrative form
-
-## Film Practice and Symbolic Mediation
-
-My long-term professional practice in filmmaking informs this research perspective. Film is a domain in which symbolic structures become visible in embodied form—in gesture, silence, framing, rhythm, sound, and spatial tension.
-
-Contemporary cinema continues to draw on mythic narrative structures such as crisis, descent, confrontation, transformation, and return. In my research and practice, these are approached as aesthetic and psychological structures rather than as spiritual doctrines or predetermined developmental stages.
-
-Narrative rupture and psychological destabilisation are treated as structural events. A single moment of fracture may reorganise identity, perception, embodiment, and relational space. Transformation is therefore not necessarily presented as awakening, healing, or resolution, but as reconfiguration under pressure.
-
-Digital and AI-mediated production environments intensify these dynamics. Algorithmic systems increasingly shape visibility, pacing, attention, and affective circulation. I consequently investigate how cinematic form, branding environments, digital platforms, and computational mediation participate in symbolic orientation and identity formation.
-
-My work remains descriptive by design. It is concerned with structure, tension, and implication rather than diagnosis or prescription.
+This orientation situates freedom within limits rather than beyond them. It emphasises responsibility without appealing to voluntarist, therapeutic, or heroic models of autonomy.
 
 ## Core Concepts and Themes
 
+- Social identity, persuasion, and consumer behaviour
 - Symbolic structures in contemporary media cultures
-- Social identity and mediated persuasion
 - Narrative rupture and identity reconfiguration
 - Film and art as embodied symbolic articulation
 - Digital and AI-mediated subject formation
@@ -52,6 +38,8 @@ My work remains descriptive by design. It is concerned with structure, tension, 
 - Ethical communication and symbolic responsibility
 
 ## Publications and Preprints
+
+My research develops an interdisciplinary account of agency, identity, and symbolic meaning under socially and technologically mediated conditions. Across theoretical, cultural, and applied contexts, the work examines how psychological, social, and infrastructural structures organise subjectivity, responsibility, consumer meaning, and identity formation.
 
 ### Peer-Reviewed Publication
 
