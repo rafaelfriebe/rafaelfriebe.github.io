@@ -57,9 +57,11 @@ My research develops a non-teleological, depth-psychological account of agency u
 
 ### Applied and Cultural Extensions
 
-- **Conscious Branding for the Age of AI: A Jungian Framework for Symbolic, Psychological, and Ethical Communication**  
-  Preprint, Zenodo (2025).  
-  DOI: [10.5281/zenodo.17849993](https://doi.org/10.5281/zenodo.17849993)
+- **Conscious Branding for the Age of AI: A Jungian Framework for Symbolic, Psychological, and Ethical Communicationc
+
+- ** The Business of Being Different: Social Identity, Persuasion, and the Commercialisation of Digital Psychology**  
+  Preprint, Zenodo (2026).  
+  DOI: [10.5281/zenodo.21401965](https://doi.org/10.5281/zenodo.21401965)
 
 - **Bearing Psychic Necessity in Mediated Education: Media Infrastructures, Non-Sovereignty, and Educational Responsibility**  
   Preprint, Zenodo (2025).  
